@@ -5,8 +5,18 @@ class MobileScreenLayout extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
-      body: Center(
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text("Instagram"),
+        leading: IconButton(
+            onPressed: () {},
+            icon: const Icon(Icons.arrow_back_ios_new_rounded)),
+        actions: [
+          IconButton(
+              onPressed: () {}, icon: const Icon(Icons.more_horiz_rounded))
+        ],
+      ),
+      body: const Center(
         child: Text("This is mobile"),
       ),
     );
