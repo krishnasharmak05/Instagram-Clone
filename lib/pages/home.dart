@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:insta/responsives/mobile_screen_layout.dart';
 import 'package:insta/responsives/resposive_layout_screen.dart';
 import 'package:insta/responsives/web_screen_layout.dart';
