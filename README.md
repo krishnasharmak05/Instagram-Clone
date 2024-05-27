@@ -1,13 +1,12 @@
-# insta
+# Instagram Clone
 
-A new Flutter project.
+This is a new instagram clone app built for learning purposes only. 
 
-## Getting Started
+## Resources
 
-This project is a starting point for a Flutter application.
+A few of the resources used:
 
-A few resources to get you started if this is your first Flutter project:
-
+- [Flutter & Firebase Course - Build a Full Stack Instagram Clone](https://www.youtube.com/watch?v=mEPm9w5QlJM) on YouTube
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
