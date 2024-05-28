@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:insta/pages/home.dart';
-import 'package:insta/secrets.dart';
+import 'package:insta/secrets.dart'; // Unavailable on GitHub to prevent unauthorized access
 
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
