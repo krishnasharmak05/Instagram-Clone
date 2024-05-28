@@ -34,6 +34,7 @@ migrate_working_dir/
 # Firebase related
 firebase_options.dart
 lib/secrets.dart
+firebase.json
 
 # Android
 google-services.json
