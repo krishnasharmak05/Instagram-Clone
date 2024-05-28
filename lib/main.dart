@@ -15,7 +15,7 @@ void main() {
         messagingSenderId: messagingSenderId,
         projectId: projectId,
         storageBucket: storageBucket,
-      ),
+      ), // Add your own API key from https://console.firebase.google.com before execution.
     );
   } else {
     Firebase.initializeApp();
